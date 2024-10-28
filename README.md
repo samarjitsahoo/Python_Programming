@@ -1,4 +1,4 @@
-# Python_Practice
+# Python_Programming
 <div align="center">
 <img src="Assets/python-programming.png" width="150" height="auto">
 </div>
